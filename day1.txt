@@ -1,2 +1,2 @@
 day1 started
-Learning DSA and backendbro
+Learning DSA and backend

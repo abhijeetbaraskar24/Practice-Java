@@ -1,5 +1,2 @@
 Day 1 started
 Learning DSA + Backend
-
-
-Trying
